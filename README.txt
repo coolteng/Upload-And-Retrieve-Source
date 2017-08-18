@@ -27,7 +27,7 @@ Libraries:
 This code supports libraries that are in the same folder as the .ino/.pde file.  
 
 For an extensive write-up on this project read my post on IDEO Labs here: 
-http://labs.ideo.com/2012/03/09/arduino-tool-that-connects-each-board-to-its-own-source/
+http://labs.ideo.com/2012/03/15/arduino-tool-that-connects-each-board-to-its-own-source/
 
 ENJOY!
 
